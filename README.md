@@ -104,7 +104,7 @@ yarn expo start
 - Para Android: Pressione `a` no terminal ou escaneie o QR code com o app Expo Go
 - Para iOS: Pressione `i` no terminal ou escaneie o QR code com a câmera do iPhone
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 projeto/
