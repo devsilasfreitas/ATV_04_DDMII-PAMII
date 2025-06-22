@@ -2,7 +2,12 @@
   "expo": {
     "name": "firebase-chat",
     "slug": "firebase-chat",
+    "sdkVersion": "53.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "version": "1.0.0",
+    "newArchEnabled": true,
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
